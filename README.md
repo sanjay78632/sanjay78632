@@ -27,7 +27,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently studying BCA  
+- 🔭 I’m currently studying Msc-it  
   
 
 - 🌱 I’m currently learning MERN STACK  
